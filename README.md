@@ -33,16 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandeyayush2608&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyayush2608&theme=tokyonight" alt="Ayush's GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 - 📍 Delhi, India  
