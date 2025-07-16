@@ -18,8 +18,9 @@ Learning Python, DSA in C++, and Web Development  <br />
 
 #### 👨‍💻 Programming Languages
 - C++
-- Python
 - C
+- Python
+- 
 
 #### 🌐 Web Development
 - HTML, CSS
@@ -32,8 +33,8 @@ Learning Python, DSA in C++, and Web Development  <br />
 
 ### 📫 Connect with Me
 - 📍 Delhi, India
-- ✉️ [pandeyayush2608@gmail.com](mailto:pandeyayush2608@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/ayushpandey2608)
+- ✉️ [pandeyayush2608@gmail.com](mailto:pandeyayush2608@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/u/PANDEY260804/)
 
 ---
